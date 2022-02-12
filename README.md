@@ -1,4 +1,4 @@
-# awesome-ubc-readme
+# awesome-ubc-profile-readme
 😎 A curated list of awesome UBC GitHub Profile READMEs 📝
 
 ## Profiles
