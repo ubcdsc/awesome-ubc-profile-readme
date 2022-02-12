@@ -7,7 +7,7 @@
 - Brian Ho: [@briantkho](https://github.com/briantkho)
 - Arya Subramanyam: [@arya23065](https://github.com/arya23065)
 - Dylan Lau: [@dylanlauzy](https://github.com/dylanlauzy)
-
+- Nick Vo: [@nk-vo](https://github.com/nk-vo)
 ## Tools
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
