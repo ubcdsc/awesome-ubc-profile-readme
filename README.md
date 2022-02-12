@@ -4,7 +4,7 @@
 ## Profiles
 
 - Gagan Bhatia: [@gagan3012](https://github.com/gagan3012)
-- Brian Ho: [@briantkho] (https://github.com/briantkho)
+- Brian Ho: [@briantkho](https://github.com/briantkho)
 
 ## Tools
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
