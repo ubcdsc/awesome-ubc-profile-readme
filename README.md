@@ -1,6 +1,10 @@
 # awesome-ubc-readme
 😎 A curated list of awesome UBC GitHub Profile READMEs 📝
 
+## Profiles
+
+- Gagan Bhatia: [@gagan3012](https://github.com/gagan3012)
+
 ## Tools
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
