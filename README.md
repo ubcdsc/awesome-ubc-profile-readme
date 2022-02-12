@@ -7,6 +7,7 @@
 - Brian Ho: [@briantkho](https://github.com/briantkho)
 - Arya Subramanyam: [@arya23065](https://github.com/arya23065)
 - Dylan Lau: [@dylanlauzy](https://github.com/dylanlauzy)
+- Claudia Tong: [@ctong25](https://github.com/ctong25)
 
 ## Tools
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
