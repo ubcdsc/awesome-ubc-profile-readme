@@ -8,6 +8,9 @@
 - Arya Subramanyam: [@arya23065](https://github.com/arya23065)
 - Dylan Lau: [@dylanlauzy](https://github.com/dylanlauzy)
 - Tom Mo: [@merlin217](https://github.com/merlin217)
+- Jonathan Xu: [@d0flamin](https://github.com/d0flamin)
+- Jeremy Zhang: [@Jeremyzzzz](https://github.com/Jeremyzzzz)
+- Tom Mo: [@merlin217](https://github.com/merlin217)
 
 ## Tools
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
