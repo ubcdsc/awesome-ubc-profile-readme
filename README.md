@@ -7,6 +7,7 @@
 - Brian Ho: [@briantkho](https://github.com/briantkho)
 - Arya Subramanyam: [@arya23065](https://github.com/arya23065)
 - Dylan Lau: [@dylanlauzy](https://github.com/dylanlauzy)
+- Jonathan Xu: [@d0flamin](https://github.com/d0flamin)
 - Jeremy Zhang: [@Jeremyzzzz](https://github.com/Jeremyzzzz)
 
 ## Tools
