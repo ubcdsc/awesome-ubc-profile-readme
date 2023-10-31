@@ -4,7 +4,7 @@
 ## Profiles
 
 - Brian Ho: [@briantkho](https://github.com/briantkho)
-- Mayank Rastogi [@mayankrastogi02][https://github.com/mayankrastogi02]
+- Mayank Rastogi [@mayankrastogi02](https://github.com/mayankrastogi02)
 - Gagan Bhatia: [@gagan3012](https://github.com/gagan3012)
 - Arya Subramanyam: [@arya23065](https://github.com/arya23065)
 - Dylan Lau: [@dylanlauzy](https://github.com/dylanlauzy)
